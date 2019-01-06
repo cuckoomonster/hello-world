@@ -1,2 +1,5 @@
 # hello-world
-Just creating a repository for the Github Guide. :)
+
+Hello people of the interwebs!
+
+I am currently learning the ropes on how to code better. 
